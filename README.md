@@ -53,4 +53,16 @@ pip install opencv-python
 
 ## Futuro Desarrollo
 Este script está diseñado para ser implementado en una futura aplicación web, donde los usuarios podrán redimensionar y guardar imágenes directamente desde su navegador
+---
 
+## Autor
+
+- [Francisco Colomer Bonometti](https://github.com/Cy5k0)
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+⌨️ con ❤️ por [Francisco Colomer B.](https://github.com/Cy5k0) 😊
